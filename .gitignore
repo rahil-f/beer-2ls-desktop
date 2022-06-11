@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#expo file
+beer-2ls-phoneApp/.expo
